@@ -112,5 +112,13 @@
   "/.deco/blocks/deco-vtex.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/deco/vtex.ts"
+  },
+  "/.deco/blocks/Preview%20vtex%2Fsections%2FAnalytics%2FVtex.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "vtex/sections/Analytics/Vtex.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FPhotoText.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/PhotoText.tsx"
   }
 }
